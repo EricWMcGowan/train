@@ -1,0 +1,50 @@
+.page-contents {
+    margin-right: 100px;
+    margin-left: 100px;
+
+}
+
+.jumbotron {
+    text-align: center;
+    border-radius: 10px;
+    background: #0688df;
+
+}
+
+#schedule-header {
+    background: #0688df;
+    padding: 8px;
+    color: white;
+    border-radius: 10px 10px 0px 0px;
+    margin-top: 50px;
+    padding-left: 15px;
+}
+
+.train-schedule {
+    border: solid #0688df 2px;
+    padding: 5px;
+    border-radius: 0px 0px 10px 10px;
+    padding-right: 15px;
+    padding-left: 15px;
+}
+ 
+#input-header {
+    background: #0688df;
+    padding: 8px;
+    color: white;
+    border-radius: 10px 10px 0px 0px;
+    margin-top: 50px;
+    padding-left: 15px;
+}
+
+.input-area {
+    border: solid #0688df 2px;
+    padding: 5px;
+    border-radius: 0px 0px 10px 10px;
+    padding-right: 15px;
+    padding-left: 15px;
+}
+
+
+
+
